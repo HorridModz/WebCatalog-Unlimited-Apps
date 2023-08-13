@@ -1,2 +1,1 @@
-# WebCatalog-Unlimited-Apps
-A simple trick to bypass WebCatalog's 5 app limitation and install as many apps as you want
+[View Github Gist](https://gist.github.com/HorridModz/35e9667817e895e81bd68193fc28e93e)
